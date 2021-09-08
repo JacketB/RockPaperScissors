@@ -10,6 +10,11 @@ namespace game
         private bool isValid = true;
         public bool Validation(string[] args)
         {
+            if (args.Length == 1)
+            {
+                isValid = false;
+                Console.WriteLine("The number of parameters must be more than one");
+            }
             if (!CheckNotEmpty(args))
             {
                 isValid = false;
