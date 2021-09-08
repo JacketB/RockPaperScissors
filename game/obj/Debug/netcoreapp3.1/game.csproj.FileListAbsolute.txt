@@ -1,0 +1,16 @@
+L:\Ваня\Ваня\itransition\game\game\bin\Debug\netcoreapp3.1\game.exe
+L:\Ваня\Ваня\itransition\game\game\bin\Debug\netcoreapp3.1\game.deps.json
+L:\Ваня\Ваня\itransition\game\game\bin\Debug\netcoreapp3.1\game.runtimeconfig.json
+L:\Ваня\Ваня\itransition\game\game\bin\Debug\netcoreapp3.1\game.runtimeconfig.dev.json
+L:\Ваня\Ваня\itransition\game\game\bin\Debug\netcoreapp3.1\game.dll
+L:\Ваня\Ваня\itransition\game\game\bin\Debug\netcoreapp3.1\game.pdb
+L:\Ваня\Ваня\itransition\game\game\bin\Debug\netcoreapp3.1\ConsoleTableExt.dll
+L:\Ваня\Ваня\itransition\game\game\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+L:\Ваня\Ваня\itransition\game\game\obj\Debug\netcoreapp3.1\game.csproj.AssemblyReference.cache
+L:\Ваня\Ваня\itransition\game\game\obj\Debug\netcoreapp3.1\game.AssemblyInfoInputs.cache
+L:\Ваня\Ваня\itransition\game\game\obj\Debug\netcoreapp3.1\game.AssemblyInfo.cs
+L:\Ваня\Ваня\itransition\game\game\obj\Debug\netcoreapp3.1\game.csproj.CoreCompileInputs.cache
+L:\Ваня\Ваня\itransition\game\game\obj\Debug\netcoreapp3.1\game.csproj.CopyComplete
+L:\Ваня\Ваня\itransition\game\game\obj\Debug\netcoreapp3.1\game.dll
+L:\Ваня\Ваня\itransition\game\game\obj\Debug\netcoreapp3.1\game.pdb
+L:\Ваня\Ваня\itransition\game\game\obj\Debug\netcoreapp3.1\game.genruntimeconfig.cache
